@@ -4,7 +4,7 @@
   <img src="./src/images/fellowship-program-logo.png" width="60%" alt="Ethereum Foundation Fellowship Program">
 </p>
 <h1 align="center">
-  Ethereum Foundation Fellowship Program
+  Vapory Foundation Fellowship Program
 </h1>
 
 The Ethereum Foundation Fellowship Program is an opportunity to experiment with using Ethereum to help solve pressing social, economic, and environmental challenges in developing countries.
